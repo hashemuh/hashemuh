@@ -15,6 +15,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 
 ## Projects
+- [SOC Monitoring and Incident Response Implementation]([https://github.com/hashemuh/Website-Vulnerability-Scan](https://github.com/hashemuh/SOC-Monitoring-and-Incident-Response-Implementation))
 - [Website Vulnerability Scan](https://github.com/hashemuh/Website-Vulnerability-Scan)
 
 ## Certifications
