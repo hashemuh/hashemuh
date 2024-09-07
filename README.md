@@ -11,8 +11,6 @@ Hi! I'm Muhammad, a Problem solver, cybersecurity enthusiast, and lover of stron
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
-
 
 ## Projects
 - [SOC Monitoring and Incident Response Implementation](https://github.com/hashemuh/SOC-Monitoring-and-Incident-Response-Implementation)
